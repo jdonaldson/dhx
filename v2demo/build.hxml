@@ -1,0 +1,9 @@
+-main Demo
+-cp src
+-cp v2demo/
+-js v2demo/bin/demo.js
+-cp lib/detox/src 
+-cp lib/selecthxml/src
+-cp lib/stdjs/haxelib
+-cmd phantomjs v2demo/bin/demo.js
+

@@ -1,0 +1,9 @@
+[submodule "lib/selecthxml"]
+	path = lib/selecthxml
+	url = git@github.com:jdonaldson/selecthxml.git
+[submodule "lib/stdjs"]
+	path = lib/stdjs
+	url = git@github.com:jdonaldson/stdjs.git
+[submodule "lib/detox"]
+	path = lib/detox
+	url = git@github.com:jdonaldson/detox.git
