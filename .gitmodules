@@ -10,3 +10,6 @@
 [submodule "lib/tinkerbell"]
 	path = lib/tinkerbell
 	url = git@github.com:jdonaldson/tinkerbell.git
+[submodule "lib/beanhx"]
+	path = lib/beanhx
+	url = git@github.com:jdonaldson/beanhx.git
