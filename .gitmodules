@@ -7,3 +7,6 @@
 [submodule "lib/detox"]
 	path = lib/detox
 	url = git@github.com:jdonaldson/detox.git
+[submodule "lib/tinkerbell"]
+	path = lib/tinkerbell
+	url = git@github.com:jdonaldson/tinkerbell.git
